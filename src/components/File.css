@@ -1,0 +1,19 @@
+.Btn {
+  color: white;
+  background: none;
+  padding: 2%;
+  border-top-left-radius: 20%;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom: 2px solid hsl(225, 6%, 13%);
+  transition: 0.8s;
+  margin: 2%;
+}
+
+.Btn:hover {
+  color: hsl(200, 2%, 30%);
+}
