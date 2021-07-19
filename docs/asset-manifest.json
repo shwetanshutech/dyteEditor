@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dyteEditor/static/css/main.7c1005de.chunk.css",
+    "main.js": "/dyteEditor/static/js/main.46cb8529.chunk.js",
+    "main.js.map": "/dyteEditor/static/js/main.46cb8529.chunk.js.map",
+    "runtime-main.js": "/dyteEditor/static/js/runtime-main.19570052.js",
+    "runtime-main.js.map": "/dyteEditor/static/js/runtime-main.19570052.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/dyteEditor/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.4c7b5db4.chunk.js": "/dyteEditor/static/js/2.4c7b5db4.chunk.js",
+    "static/js/2.4c7b5db4.chunk.js.map": "/dyteEditor/static/js/2.4c7b5db4.chunk.js.map",
+    "static/js/3.5b1981b9.chunk.js": "/dyteEditor/static/js/3.5b1981b9.chunk.js",
+    "static/js/3.5b1981b9.chunk.js.map": "/dyteEditor/static/js/3.5b1981b9.chunk.js.map",
+    "index.html": "/dyteEditor/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/dyteEditor/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.7c1005de.chunk.css.map": "/dyteEditor/static/css/main.7c1005de.chunk.css.map",
+    "static/js/2.4c7b5db4.chunk.js.LICENSE.txt": "/dyteEditor/static/js/2.4c7b5db4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19570052.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.4c7b5db4.chunk.js",
+    "static/css/main.7c1005de.chunk.css",
+    "static/js/main.46cb8529.chunk.js"
+  ]
+}
