@@ -1,7 +1,3 @@
-# Design Preview
-
-![Design](./designPreview.png)
-
 ### Hosted Link [Find the Project Here] -> https://dyteditor.herokuapp.com/
 
 ## Getting Started with Create React App
