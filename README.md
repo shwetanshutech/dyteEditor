@@ -1,4 +1,6 @@
-### Hosted Link [Find the Project Here] -> shwetanshutech.github.io/dyteeditor/
+### Hosted Link [Find the Project Here] ->
+
+[LIVE LINK 🌐](shwetanshutech.github.io/dyteeditor/)
 
 ## Getting Started with Create React App
 
